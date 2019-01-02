@@ -1,6 +1,6 @@
 # Sushil G 3D CSS Shape Animation
 
-Sushil G 3D CSS Shape Animation is an example showcasing **CSS animation properties**. No JavaScript is used. All the animation is **pure CSS**.
+Sushil G 3D CSS Shape Animation is an example showcasing **CSS animation properties**. The shape is constructed using CSS properties from essentially **'div'** elements. No JavaScript is used. All the animation is **pure CSS**.
 
 ## Technologies Used
 
